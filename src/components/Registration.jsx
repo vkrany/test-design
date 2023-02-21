@@ -47,7 +47,7 @@ export const Registrations = () => {
 		<Fragment>
 			<div className="wrapper">
 				<div className="wrapper_v2">
-					<div>Registrations</div>
+					<div className="title">Registrations</div>
 					<br />
 					<input
 						className={"input_1"}
